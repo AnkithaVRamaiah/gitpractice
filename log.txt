@@ -1,1 +1,2 @@
 reset command 
+how reset works.
