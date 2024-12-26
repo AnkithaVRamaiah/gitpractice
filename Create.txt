@@ -1,2 +1,0 @@
-Checking how git command works.
-lat commit
